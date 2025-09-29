@@ -1,0 +1,5 @@
+outs:
+- md5: c3c79b038faf6ae3ae9a0445541999bf
+  size: 2177495040
+  hash: md5
+  path: inventory.db
